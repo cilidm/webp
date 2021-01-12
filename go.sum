@@ -1,0 +1,7 @@
+github.com/chai2010/webp v1.1.0 h1:4Ei0/BRroMF9FaXDG2e4OxwFcuW2vcXd+A6tyqTJUQQ=
+github.com/chai2010/webp v1.1.0/go.mod h1:LP12PG5IFmLGHUU26tBiCBKnghxx3toZFwDjOYvd3Ow=
+github.com/cilidm/toolbox v0.0.0-20201118121849-14c708c90a3a h1:JCnfLbRwjG1Gj3UigeVsEHd4FbjzD5IPAaJLhC2ozp4=
+github.com/cilidm/toolbox v0.0.0-20201118121849-14c708c90a3a/go.mod h1:XJMZw1ev+8yZf+DHTrDF5JOODtNzThbxRON+xi9ol9c=
+golang.org/x/image v0.0.0-20200927104501-e162460cd6b5 h1:QelT11PB4FXiDEXucrfNckHoFxwt8USGY1ajP1ZF5lM=
+golang.org/x/image v0.0.0-20200927104501-e162460cd6b5/go.mod h1:FeLwcggjj3mMvU+oOTbSwawSJRM1uh48EjtB4UJZlP0=
+golang.org/x/text v0.3.0/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
